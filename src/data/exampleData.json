@@ -1,0 +1,59 @@
+{
+  "path": "./public/",
+  "name": "public",
+  "children": [
+    {
+      "path": "public/klosterfoss",
+      "name": "klosterfoss",
+      "children": [
+        {
+          "path": "public/klosterfoss/2018",
+          "name": "2018",
+          "children": [],
+          "size": 0,
+          "type": "directory"
+        },
+        {
+          "path": "public/klosterfoss/2019",
+          "name": "2019",
+          "children": [],
+          "size": 0,
+          "type": "directory"
+        }
+      ],
+      "size": 0,
+      "type": "directory"
+    },
+    {
+      "path": "public/skotfoss",
+      "name": "skotfoss",
+      "children": [
+        {
+          "path": "public/skotfoss/2017",
+          "name": "2017",
+          "children": [],
+          "size": 0,
+          "type": "directory"
+        },
+        {
+          "path": "public/skotfoss/2018",
+          "name": "2018",
+          "children": [],
+          "size": 0,
+          "type": "directory"
+        },
+        {
+          "path": "public/skotfoss/2019",
+          "name": "2019",
+          "children": [],
+          "size": 0,
+          "type": "directory"
+        }
+      ],
+      "size": 0,
+      "type": "directory"
+    }
+  ],
+  "size": 0,
+  "type": "directory"
+}

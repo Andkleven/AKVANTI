@@ -1,2 +1,0 @@
-# AKVANTI
-Created with CodeSandbox

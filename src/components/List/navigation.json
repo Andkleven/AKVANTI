@@ -1,0 +1,25 @@
+{
+  "home": {
+    "title": "Home"
+  },
+  "products": { "title": "Products" },
+  "moreInfo": { "title": "More Info" },
+  "about": { "title": "About" },
+  "3": {
+    "title": "video1",
+    "link": "https://stream.mux.com/P8Q9JFEGqYpY1wdk5KSTz01pkjl7wlY95.m3u8"
+  },
+  "4": {
+    "title": "video2",
+    "link": "https://bitmovin-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+  },
+  "contact": {
+    "title": "Contact",
+    "items": {
+      "quote": { "title": "Quote" },
+      "support": { "title": "Support" },
+      "4": { "title": "4" },
+      "generalQuestions": { "title": "General Questions" }
+    }
+  }
+}

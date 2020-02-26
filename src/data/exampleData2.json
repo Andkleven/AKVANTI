@@ -1,0 +1,29 @@
+{
+  "path": "./public/klosterfoss/2018",
+  "name": "2018",
+  "children": [
+    {
+      "path": "public/klosterfoss/2018/0003.webm",
+      "name": "0003.webm",
+      "size": 317513,
+      "extension": ".webm",
+      "type": "file"
+    },
+    {
+      "path": "public/klosterfoss/2018/0022.webm",
+      "name": "0022.webm",
+      "size": 164099,
+      "extension": ".webm",
+      "type": "file"
+    },
+    {
+      "path": "public/klosterfoss/2018/944.mp4",
+      "name": "944.mp4",
+      "size": 1212653,
+      "extension": ".mp4",
+      "type": "file"
+    }
+  ],
+  "size": 1694265,
+  "type": "directory"
+}
